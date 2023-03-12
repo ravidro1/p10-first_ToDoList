@@ -1,0 +1,32 @@
+:root {
+  --backgroundColor: #eeeeee;
+  --headLineColor: #125d98;
+  --borderColor: #e1d7c6;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  height: 100vw;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--backgroundColor);
+}
+
+.main {
+  height: 100%;
+  /* background-color: var(--backgroundCol); */
+}
+
+.headline {
+  color: var(--headLineColor);
+}
+
+.div-input {
+  width: auto;
+  max-width: 90vw;
+  height: auto;
+  border: 0.3vw solid var(--headLineColor);
+  border-radius: 3vw;
+  padding: 2vw;
+}

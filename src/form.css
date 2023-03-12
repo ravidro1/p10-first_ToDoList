@@ -1,0 +1,30 @@
+.missionForm{
+    /* margin-top: 4vw;
+    margin-bottom: 4vw; */
+
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+
+}
+
+
+.allFormDiv{
+    display: flex;
+    justify-content: start;
+    justify-content: center;
+    width: auto;
+
+    margin-top: 4vw;
+    margin-bottom: 4vw; 
+}
+
+.Form{
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+
+    margin-left: 1vw;
+    margin-right: 1vw; 
+}
